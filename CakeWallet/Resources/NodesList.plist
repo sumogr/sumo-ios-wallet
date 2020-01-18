@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>uri</key>
+		<string>167.172.44.84:19734</string>
+	</dict>
+	<dict>
+		<key>isDefault</key>
+		<true/>
+		<key>uri</key>
+		<string>144.217.164.165:19734</string>
+	</dict>
+	<dict>
+		<key>uri</key>
+		<string>217.182.76.94:19734</string>
+	</dict>
+	<dict>
+		<key>uri</key>
+		<string>46.105.92.108:19734</string>
+	</dict>
+        <dict>
+		<key>uri</key>
+		<string>139.99.193.21:19734</string>
+	</dict>
+        <dict>
+		<key>uri</key>
+		<string>139.99.40.69:19734</string>
+	</dict>
+        <dict>
+		<key>uri</key>
+		<string>133.18.53.223:19734</string>
+	</dict>
+</array>
+</plist>
